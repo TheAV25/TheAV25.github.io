@@ -1,5 +1,4 @@
 # TheAV25.github.io
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -60,5 +59,3 @@
     </footer>
   </body>
 </html>
-
-      
