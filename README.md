@@ -24,7 +24,7 @@
   </head>
   <body>
     <header>
-      <h1>Class 9 Study Material</h1>
+      <h3>Class 9 Study Material</h3>
     </header>
     
     <nav>
