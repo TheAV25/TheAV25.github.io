@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Class 10 Study Material</title>
+    <title>ChatGPT-like Website</title>
     <style>
       body {
         font-family: Arial, sans-serif;
@@ -13,49 +13,55 @@
         color: #333;
       }
       
-      ul {
-        list-style: none;
-        margin: 0;
-        padding: 0;
+      #chat-container {
+        height: 400px;
+        overflow-y: auto;
+        border: 1px solid #ccc;
+        padding: 10px;
       }
       
-      li {
+      #message-form {
+        margin-top: 20px;
+      }
+      
+      input[type="text"], textarea {
+        width: 100%;
+        padding: 10px;
         margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+      
+      button {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
       }
     </style>
   </head>
   <body>
     <header>
-      <h1>Class 10 Study Material</h1>
+      <h1>ChatGPT-like Website</h1>
     </header>
     
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Subjects</a></li>
-        <li><a href="#">Practice Questions</a></li>
-        <li><a href="#">Syllabus</a></li>
-      </ul>
-    </nav>
-    
     <main>
-      <h2>About Me</h2>
-      <ul>
-        <li>Name: Astitva Varshney</li>
-        <li>Mobile number: 8218307825</li>
-        <li>Email: astitva2822@gmail.com</li>
-      </ul>
+      <div id="chat-container">
+        <p><strong>ChatGPT:</strong> Welcome to ChatGPT-like website. How can I assist you today?</p>
+      </div>
       
-      <h2>Latest Updates</h2>
-      <ul>
-        <li><a href="#">New practice questions added for Math</a></li>
-        <li><a href="#">Updated Science syllabus for 2023-2024</a></li>
-        <li><a href="#">English grammar guide now available</a></li>
-      </ul>
+      <form id="message-form">
+        <input type="text" name="name" placeholder="Your Name">
+        <textarea name="message" placeholder="Type your message here..."></textarea>
+        <button type="submit">Send</button>
+      </form>
     </main>
     
     <footer>
-      <p>&copy; 2023 Class 10 Study Material</p>
+      <p>&copy; 2023 ChatGPT-like Website</p>
     </footer>
   </body>
 </html>
