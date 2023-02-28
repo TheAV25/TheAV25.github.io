@@ -39,9 +39,9 @@
     <main>
       <h5>About Us</h5>
       <ul>
-        <li>Name: Astitva Varshney</li>
-        <li>Mobile number: 8218307825</li>
-        <li>Email: astitva2822@gmail.com</li>
+        <li>Astitva Varshney</li>
+        <li>+918218307825</li>
+        <li>astitva2822@gmail.com</li>
       </ul>
     </main>
     
