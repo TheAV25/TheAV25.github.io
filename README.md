@@ -37,18 +37,11 @@
     </nav>
     
     <main>
-      <h2>About Us</h2>
+      <h5>About Us</h5>
       <ul>
         <li>Name: Astitva Varshney</li>
         <li>Mobile number: 8218307825</li>
         <li>Email: astitva2822@gmail.com</li>
-      </ul>
-      
-      <h2>Latest Updates</h2>
-      <ul>
-        <li><a href="#">New practice questions added for Math</a></li>
-        <li><a href="#">Updated Science syllabus for 2023-2024</a></li>
-        <li><a href="#">English grammar guide now available</a></li>
       </ul>
     </main>
     
