@@ -1,5 +1,4 @@
 # TheAV25.github.io
-<!DOCTYPE html>
 <html>
   <head>
     <title>Class 9 Study Material</title>
