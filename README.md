@@ -1,4 +1,4 @@
-# TheAV25.github.io
+# TheAV25- Class 9 Resources
 <html>
   <head>
     <title>Class 9 Study Material</title>
