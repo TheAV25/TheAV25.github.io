@@ -40,7 +40,7 @@
       <h5>About Us</h5>
       <ul>
         <li>Astitva Varshney</li>
-        <li>+918218307825</li>
+        <li>+918392904192</li>
         <li>astitva2822@gmail.com</li>
       </ul>
     </main>
