@@ -29,8 +29,7 @@
     
     <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Subjects</a></li>
+        <li><a href="#">Our Objective</a></li>
         <li><a href="https://1drv.ms/b/s!ApEpSbXrF_-sq15NG86D37ko-zbI">Physics Practice Questions</a></li>
         <li><a href="https://1drv.ms/b/s!ApEpSbXrF_-sq1-TmTStsp1c654J">SST Syllabus</a></li>
         <li><a href="#">Science Syllabus</a></li>
