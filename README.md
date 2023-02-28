@@ -54,7 +54,5 @@
     </main>
     
     <footer>
-      <p>&copy; 2023 Astitva 
-    </footer>
-  </body>
-</html>
+      <p>&copy; 2023 TheAV25
+All Rights Reserved
