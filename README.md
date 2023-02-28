@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Class 10 Study Material</title>
+    <title>Class 9 Study Material</title>
     <style>
       body {
         font-family: Arial, sans-serif;
@@ -26,7 +26,7 @@
   </head>
   <body>
     <header>
-      <h1>Class 10 Study Material</h1>
+      <h1>Class 9 Study Material</h1>
     </header>
     
     <nav>
@@ -55,7 +55,7 @@
     </main>
     
     <footer>
-      <p>&copy; 2023 Class 10 Study Material</p>
+      <p>&copy; 2023 Astitva 
     </footer>
   </body>
 </html>
