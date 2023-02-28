@@ -42,7 +42,8 @@
       <ul>
         <li>Astitva Varshney</li>
         <li>+918392904192</li>
-        <li>astitva2822@gmail.com</li>
+        <a href="mailto:astitva2822@gmail.com">astitva2822@gmail.com</a>
+
       </ul>
     </main>
     
