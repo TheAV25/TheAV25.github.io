@@ -1,36 +1,64 @@
 # TheAV25.github.io
+
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Class 10 Website</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Class 10 Study Material</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+      }
+      
+      h1 {
+        color: #333;
+      }
+      
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+      li {
+        margin-bottom: 10px;
+      }
+    </style>
   </head>
   <body>
     <header>
-      <h1>Welcome to My Class 10 Website</h1>
+      <h1>Class 10 Study Material</h1>
     </header>
+    
     <nav>
       <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#services">Services</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Subjects</a></li>
+        <li><a href="#">Practice Questions</a></li>
+        <li><a href="#">Syllabus</a></li>
       </ul>
     </nav>
+    
     <main>
-      <section id="about">
-        <h2>About Us</h2>
-        <p>We are a class 10 group of students who are passionate about learning and sharing knowledge.</p>
-      </section>
-      <section id="services">
-        <h2>Our Services</h2>
-        <ul>
-          <li>Tutoring</li>
-          <li>Homework help</li>
-          <li>Study guides</li>
-        </ul>
-      </section>
-      <section id="contact">
-        <h2>Contact Us</h2>
-        <form>
-          <label for="name">Name:</label>
+      <h2>About Me</h2>
+      <ul>
+        <li>Name: Astitva Varshney</li>
+        <li>Mobile number: 8218307825</li>
+        <li>Email: astitva2822@gmail.com</li>
+      </ul>
+      
+      <h2>Latest Updates</h2>
+      <ul>
+        <li><a href="#">New practice questions added for Math</a></li>
+        <li><a href="#">Updated Science syllabus for 2023-2024</a></li>
+        <li><a href="#">English grammar guide now available</a></li>
+      </ul>
+    </main>
+    
+    <footer>
+      <p>&copy; 2023 Class 10 Study Material</p>
+    </footer>
+  </body>
+</html>
+
       
