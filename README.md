@@ -1,7 +1,6 @@
 # TheAV25- Class 9 Resources
 <html>
   <head>
-    <title>Class 9 Study Material</title>
     <style>
       body {
         font-family: Arial, sans-serif;
